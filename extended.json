@@ -1,6 +1,6 @@
 "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "url_png_icon_64x64": "https://i.postimg.cc/2zMDk5K7/TGN-Logo-TN.png",
+        "url_png_logo": "https://i.postimg.cc/FspvNgMY/TGN-Logo.png",
         "location": "Sunny Southern California",
         "social": {
             "twitter_handle": "",

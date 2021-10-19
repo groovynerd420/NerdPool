@@ -1,1 +1,39 @@
-
+"info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Sunny Southern California",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "GNERD_Matthew",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Father, Son, Brother, Friend. Always pursuing the advancement of STEM to our children.",
+            "server": "Each cluster is run on a pair of Cisco UCS-C blades. 2x Power, 4x Network, Debian. Each node is 8 CPU // 16G RAM // 250G SSD",
+            "company": "..."
+        }
+    },
+    "my-pool-ids": {
+        "0": "a9ec394d519fdc192707868c28f8285af37fe83c0c9ad4541ac9820f",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": "GNERD_Matthew"
+    }
+}
